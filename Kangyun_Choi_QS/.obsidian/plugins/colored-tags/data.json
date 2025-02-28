@@ -1,0 +1,47 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "NISQ": 1,
+    "FTQC": 2,
+    "Superconducting": 3,
+    "Trapped": 4,
+    "Neutral": 5,
+    "Photonic": 6,
+    "Topological": 7,
+    "Silicon": 8,
+    "API": 9,
+    "SDK": 10,
+    "Qiskit": 11,
+    "Cirq": 12,
+    "Amazon": 13,
+    "PennyLane": 14,
+    "IBM": 15,
+    "Google": 16,
+    "AWS": 17,
+    "Xanadu": 18,
+    "Python": 19,
+    "OpenSourceFramework": 20,
+    "CloudComputing": 21,
+    "OpenSourceLibrary": 22,
+    "Cloud-agnostic": 23,
+    "Accessibility": 24,
+    "HarwareControl": 25,
+    "Simulation": 26,
+    "circuit": 27,
+    "MachineLearning": 28,
+    "UtilityComputing": 29,
+    "ServerBasedComputing": 30,
+    "NetworkComputing": 31,
+    "Qiski": 32
+  },
+  "_version": 3
+}

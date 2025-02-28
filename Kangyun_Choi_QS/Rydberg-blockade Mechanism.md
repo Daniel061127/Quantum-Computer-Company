@@ -1,0 +1,3 @@
+The Rydberg Blockade is a quantum phenomenon that occurs when atoms are excited to high-energy Rydberg states. In this state, atoms exhibit strong long-range interactions, leading to a blockade effect where the excitation of one atom can prevent the excitation of nearby atoms. This effect has significant applications in quantum computing, particularly in the manipulation and entanglement of qubits.
+
+[Link](https://www.quera.com/glossary/rydberg-blockage)

@@ -1,0 +1,5 @@
+In quantum computing and quantum information theory, the **Clifford gates** are the elements of the Clifford group, a set of mathematical transformations which normalize the n-qubit Pauli group, i.e., map tensor products of Pauli matrices to tensor products of Pauli matrices through conjugation. [Wikipedia](https://en.wikipedia.org/wiki/Clifford_gates)
+
+In logic circuits, the Toffoli gate, also known as the CCNOT gate (“controlled-controlled-not”), invented by Tommaso Toffoli, is a CNOT gate with two control qubits and one target qubit. That is, the target qubit (third qubit) will be inverted if the first and second qubits are both 1. It is a universal reversible logic gate, which means that any classical reversible circuit can be constructed from Toffoli gates. [Wikipedia](https://en.wikipedia.org/wiki/Toffoli_gate)
+
+[Microsoft + Alice&Bob](https://quantum.microsoft.com/en-us/insights/blogs/qsharp/evaluating-cat-qubits-for-fault-tolerant-quantum-computing-using-azure-quantum-resource-estimator)

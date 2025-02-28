@@ -1,0 +1,2 @@
+**SiMOS (Silicon Metal-Oxide-Semiconductor) qubits** are a type of **silicon spin qubit** used in quantum computing. They are based on **single electron spins** confined in silicon quantum dots, controlled using metal-oxide-semiconductor (MOS) technology.
+[Article](https://www.nature.com/articles/s41467-018-04200-0)

@@ -1,0 +1,109 @@
+/* 행간 조절 */
+
+.cm-contentContainer {
+
+line-height: 1.5;
+
+}
+
+​
+
+/* 문단 간 간격 조절 */
+
+.markdown-source-view :is(.cm-line + .cm-line) {
+
+padding-top: 0.7em !important;
+
+}
+[출처] 옵시디언 가독성 높이기 1탄 / 행간 문단 단락 간격 조절하는 법|작성자 선셋
+
+
+.theme-light {
+  --font-color-1: lch(40 36 125);  
+  --font-color-2: lch(40 36 80);  
+  --font-color-3: lch(39 36 170);  
+  --font-color-4: lch(40 36 35);  
+  --font-color-5: lch(40 36 305);  
+  --font-color-6: lch(39 36 260);  
+  --font-color-7: lch(40 36 350);  
+  --background-color-1: lch(87 16 125);
+  --background-color-2: lch(87 16 80);  
+  --background-color-3: lch(87 16 170);  
+  --background-color-4: lch(87 16 35);  
+  --background-color-5: lch(87 16 305);  
+  --background-color-6: lch(87 16 260);  
+  --background-color-7: lch(87 16 350);  
+}
+.theme-dark {
+  --font-color-1: lch(83 32 125);  
+  --font-color-2: lch(83 32 80);  
+  --font-color-3: lch(83 32 170);  
+  --font-color-4: lch(83 32 35);  
+  --font-color-5: lch(83 32 305);  
+  --font-color-6: lch(83 32 260);  
+  --font-color-7: lch(83 32 350);  
+  --background-color-1: lch(35 29 125);
+  --background-color-2: lch(35 29 80);  
+  --background-color-3: lch(35 29 170);  
+  --background-color-4: lch(35 29 35);  
+  --background-color-5: lch(35 29 305);  
+  --background-color-6: lch(35 29 260);  
+  --background-color-7: lch(35 29 350);  
+}  
+
+.multi-select-pill:first-child,
+.markdown-reading-view .tag:not(.token):first-child {  
+  background-color: var(--background-color-1);
+  color: var(--font-color-1);
+}  
+.multi-select-pill:first-child svg.svg-icon{
+	stroke: var(--font-color-1);
+}
+.multi-select-pill:nth-child(2),
+.markdown-reading-view .tag:not(.token):nth-child(2) {  
+  background-color: var(--background-color-2);  
+  color: var(--font-color-2);
+}  
+.multi-select-pill:nth-child(2) svg.svg-icon{
+	stroke: var(--font-color-2);
+}
+.multi-select-pill:nth-child(3),
+.markdown-reading-view .tag:not(.token):nth-child(3) {  
+  background-color: var(--background-color-3);  
+  color: var(--font-color-3);
+}  
+.multi-select-pill:nth-child(3) svg.svg-icon{
+	stroke: var(--font-color-3);
+}
+.multi-select-pill:nth-child(4),
+.markdown-reading-view .tag:not(.token):nth-child(4) {  
+  background-color: var(--background-color-4);  
+  color: var(--font-color-4);
+}  
+.multi-select-pill:nth-child(4) svg.svg-icon{
+	stroke: var(--font-color-4);
+}
+.multi-select-pill:nth-child(5),
+.markdown-reading-view .tag:not(.token):nth-child(5) {  
+  background-color: var(--background-color-5);  
+  color: var(--font-color-5);
+}  
+.multi-select-pill:nth-child(5) svg.svg-icon{
+	stroke: var(--font-color-5);
+}
+.multi-select-pill:nth-child(6),
+.markdown-reading-view .tag:not(.token):nth-child(6) {  
+  background-color: var(--background-color-6);  
+  color: var(--font-color-6);
+}  
+.multi-select-pill:nth-child(6) svg.svg-icon{
+	stroke: var(--font-color-6);
+}
+.multi-select-pill:nth-child(7),
+.markdown-reading-view .tag:not(.token):nth-child(7) {  
+  background-color: var(--background-color-7);  
+  color: var(--font-color-7);
+}
+.multi-select-pill:nth-child(7) svg.svg-icon{
+	stroke: var(--font-color-7);
+}
